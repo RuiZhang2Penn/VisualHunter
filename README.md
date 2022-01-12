@@ -1,5 +1,5 @@
 # VisualHunter
-I learned so much in this project, a twitch+ recommendation system
+I learned so much in this project, a twitch+ recommendation system, a Personalized Twitch Resources Recommendation
 
 ● Built a full-stack web application for user to search Twitch resources (stream/video/clip) and get recommendations
 
